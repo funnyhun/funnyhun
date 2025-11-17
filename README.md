@@ -4,7 +4,7 @@
   <br>
   <p>
     제 여정을
-    <a href="https://funnyhun.life">funnyhun.life</a>
+    <a href="http://funnyhun.life">funnyhun.life</a>
     에서 확인해주세요 👈
   </p>
   <br>
