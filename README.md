@@ -8,8 +8,12 @@
     에서 확인해주세요 👈
   </p>
   <br>
-  <p></p>
+  <br>
+  <p> 현재는 🤔 </p>
+  <p>AI 입시 미술 주제 추천 서비스 - DrawMade 를 개발하고 있습니다.</p>
+  <p>소비를 위한 저축 앱 - 사소한 지갑 을 구상 중입니다.</p>
   <br><br>
+  <h3 align="center">Tools✍️</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/vite-646CFF?style=round-square&logo=vite&logoColor=white">
