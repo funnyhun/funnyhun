@@ -1,11 +1,6 @@
 <div align="center">
   <a href="https://github.com/funnyhun"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FunnyHun&fontSize=50&animation=fadeIn&fontAlignY=34"></a>
   <h3>일상에 녹아드는 서비스를 꿈꾸는 개발자, 이민훈입니다 🖐️</h3>
-  <p>
-    제 여정을
-    <a href="http://funnyhun.life">funnyhun.life</a>
-    에서 확인해주세요 👈
-  </p>
   <br>
   <p> 현재는 🤔 </p>
   <p>AI 입시 미술 주제 추천 서비스 - DrawMade 를 개발하고 있습니다.</p>
