@@ -3,8 +3,8 @@
   <h3>일상에 녹아드는 서비스를 꿈꾸는 개발자, 이민훈입니다 🖐️</h3>
   <br>
   <p> 현재는 🤔 </p>
-  <p>AI 입시 미술 주제 추천 서비스 - DrawMade 를 개발하고 있습니다.</p>
-  <p>소비를 위한 저축 앱 - 사소한 지갑 을 구상 중입니다.</p>
+  <p> 토익 시험을 위한 영단어장, MyVoca 를 개발하고 있습니다. </p>
+  <p> 소비를 위한 저축 앱 - 사소한 지갑 을 구상 중입니다. </p>
   <h3 align="center">✍️Tools</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=round-square&logo=styledcomponents&logoColor=white">
